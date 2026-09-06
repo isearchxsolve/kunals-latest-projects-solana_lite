@@ -1,0 +1,8 @@
+.env
+.env*
+!.env.example
+*.pem
+gmgn_keys/
+logs/*.log
+node_modules/
+dist/
